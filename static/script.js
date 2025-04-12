@@ -1,17 +1,9 @@
 // 예시 데이터 (실제 데이터베이스 연동 전까지는 이걸로 테스트)
 const studentData = [
   {
-    id: "20230101",
-    name: "김철수",
-    googleId: "20230101@school.edu",
-    googlePw: "Abcd1234!"
-  },
+    id: "20250101",    name: "김철수",    googleId: "20250101@school.edu",    googlePw: "Abcd1234!"  },
   {
-    id: "20230202",
-    name: "이영희",
-    googleId: "20230202@school.edu",
-    googlePw: "Qwer5678!"
-  },
+    id: "20250202",    name: "이영희",    googleId: "20250202@school.edu",    googlePw: "Qwer5678!"  },
   // 추가 데이터는 여기에 계속 추가 가능
 ];
 
